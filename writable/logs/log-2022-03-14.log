@@ -1,0 +1,499 @@
+CRITICAL - 2022-03-14 08:07:42 --> Undefined property: App\Controllers\Home::$load
+#0 D:\Client Project\Microsoft\20220313_aws\aws-sdk-php\app\Controllers\Home.php(9): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'D:\\Client Proje...', 9, Array)
+#1 D:\Client Project\Microsoft\20220313_aws\aws-sdk-php\system\CodeIgniter.php(832): App\Controllers\Home->index()
+#2 D:\Client Project\Microsoft\20220313_aws\aws-sdk-php\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 D:\Client Project\Microsoft\20220313_aws\aws-sdk-php\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\Client Project\Microsoft\20220313_aws\aws-sdk-php\public\index.php(38): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-03-14 08:12:04 --> Undefined property: App\Controllers\Home::$aws_sdk
+#0 D:\Client Project\Microsoft\20220313_aws\aws-sdk-php\app\Controllers\Home.php(12): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'D:\\Client Proje...', 12, Array)
+#1 D:\Client Project\Microsoft\20220313_aws\aws-sdk-php\system\CodeIgniter.php(832): App\Controllers\Home->index()
+#2 D:\Client Project\Microsoft\20220313_aws\aws-sdk-php\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 D:\Client Project\Microsoft\20220313_aws\aws-sdk-php\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\Client Project\Microsoft\20220313_aws\aws-sdk-php\public\index.php(38): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-03-14 08:13:00 --> Trying to get property 'load' of non-object
+#0 D:\Client Project\Microsoft\20220313_aws\aws-sdk-php\app\Controllers\Home.php(11): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to get p...', 'D:\\Client Proje...', 11, Array)
+#1 D:\Client Project\Microsoft\20220313_aws\aws-sdk-php\system\CodeIgniter.php(832): App\Controllers\Home->index()
+#2 D:\Client Project\Microsoft\20220313_aws\aws-sdk-php\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 D:\Client Project\Microsoft\20220313_aws\aws-sdk-php\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\Client Project\Microsoft\20220313_aws\aws-sdk-php\public\index.php(38): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-03-14 08:13:01 --> Trying to get property 'load' of non-object
+#0 D:\Client Project\Microsoft\20220313_aws\aws-sdk-php\app\Controllers\Home.php(11): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to get p...', 'D:\\Client Proje...', 11, Array)
+#1 D:\Client Project\Microsoft\20220313_aws\aws-sdk-php\system\CodeIgniter.php(832): App\Controllers\Home->index()
+#2 D:\Client Project\Microsoft\20220313_aws\aws-sdk-php\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 D:\Client Project\Microsoft\20220313_aws\aws-sdk-php\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\Client Project\Microsoft\20220313_aws\aws-sdk-php\public\index.php(38): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-03-14 08:13:02 --> Trying to get property 'load' of non-object
+#0 D:\Client Project\Microsoft\20220313_aws\aws-sdk-php\app\Controllers\Home.php(11): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to get p...', 'D:\\Client Proje...', 11, Array)
+#1 D:\Client Project\Microsoft\20220313_aws\aws-sdk-php\system\CodeIgniter.php(832): App\Controllers\Home->index()
+#2 D:\Client Project\Microsoft\20220313_aws\aws-sdk-php\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 D:\Client Project\Microsoft\20220313_aws\aws-sdk-php\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\Client Project\Microsoft\20220313_aws\aws-sdk-php\public\index.php(38): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-03-14 08:13:02 --> Trying to get property 'load' of non-object
+#0 D:\Client Project\Microsoft\20220313_aws\aws-sdk-php\app\Controllers\Home.php(11): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to get p...', 'D:\\Client Proje...', 11, Array)
+#1 D:\Client Project\Microsoft\20220313_aws\aws-sdk-php\system\CodeIgniter.php(832): App\Controllers\Home->index()
+#2 D:\Client Project\Microsoft\20220313_aws\aws-sdk-php\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 D:\Client Project\Microsoft\20220313_aws\aws-sdk-php\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\Client Project\Microsoft\20220313_aws\aws-sdk-php\public\index.php(38): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-03-14 08:13:03 --> Trying to get property 'load' of non-object
+#0 D:\Client Project\Microsoft\20220313_aws\aws-sdk-php\app\Controllers\Home.php(11): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to get p...', 'D:\\Client Proje...', 11, Array)
+#1 D:\Client Project\Microsoft\20220313_aws\aws-sdk-php\system\CodeIgniter.php(832): App\Controllers\Home->index()
+#2 D:\Client Project\Microsoft\20220313_aws\aws-sdk-php\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 D:\Client Project\Microsoft\20220313_aws\aws-sdk-php\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\Client Project\Microsoft\20220313_aws\aws-sdk-php\public\index.php(38): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-03-14 08:13:03 --> Trying to get property 'load' of non-object
+#0 D:\Client Project\Microsoft\20220313_aws\aws-sdk-php\app\Controllers\Home.php(11): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to get p...', 'D:\\Client Proje...', 11, Array)
+#1 D:\Client Project\Microsoft\20220313_aws\aws-sdk-php\system\CodeIgniter.php(832): App\Controllers\Home->index()
+#2 D:\Client Project\Microsoft\20220313_aws\aws-sdk-php\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 D:\Client Project\Microsoft\20220313_aws\aws-sdk-php\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\Client Project\Microsoft\20220313_aws\aws-sdk-php\public\index.php(38): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-03-14 08:13:03 --> Trying to get property 'load' of non-object
+#0 D:\Client Project\Microsoft\20220313_aws\aws-sdk-php\app\Controllers\Home.php(11): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to get p...', 'D:\\Client Proje...', 11, Array)
+#1 D:\Client Project\Microsoft\20220313_aws\aws-sdk-php\system\CodeIgniter.php(832): App\Controllers\Home->index()
+#2 D:\Client Project\Microsoft\20220313_aws\aws-sdk-php\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 D:\Client Project\Microsoft\20220313_aws\aws-sdk-php\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\Client Project\Microsoft\20220313_aws\aws-sdk-php\public\index.php(38): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-03-14 08:13:03 --> Trying to get property 'load' of non-object
+#0 D:\Client Project\Microsoft\20220313_aws\aws-sdk-php\app\Controllers\Home.php(11): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to get p...', 'D:\\Client Proje...', 11, Array)
+#1 D:\Client Project\Microsoft\20220313_aws\aws-sdk-php\system\CodeIgniter.php(832): App\Controllers\Home->index()
+#2 D:\Client Project\Microsoft\20220313_aws\aws-sdk-php\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 D:\Client Project\Microsoft\20220313_aws\aws-sdk-php\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\Client Project\Microsoft\20220313_aws\aws-sdk-php\public\index.php(38): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-03-14 08:20:19 --> Class 'App\Controllers\App\Library\Aws_sdk' not found
+#0 D:\Client Project\Microsoft\20220313_aws\aws-sdk-php\system\CodeIgniter.php(832): App\Controllers\Home->index()
+#1 D:\Client Project\Microsoft\20220313_aws\aws-sdk-php\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 D:\Client Project\Microsoft\20220313_aws\aws-sdk-php\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\Client Project\Microsoft\20220313_aws\aws-sdk-php\public\index.php(38): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-03-14 08:20:36 --> Class 'App\Library\Aws_sdk' not found
+#0 D:\Client Project\Microsoft\20220313_aws\aws-sdk-php\system\CodeIgniter.php(832): App\Controllers\Home->index()
+#1 D:\Client Project\Microsoft\20220313_aws\aws-sdk-php\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 D:\Client Project\Microsoft\20220313_aws\aws-sdk-php\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\Client Project\Microsoft\20220313_aws\aws-sdk-php\public\index.php(38): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-03-14 08:20:55 --> Class 'App\Library\Aws_sdk' not found
+#0 D:\Client Project\Microsoft\20220313_aws\aws-sdk-php\system\CodeIgniter.php(832): App\Controllers\Home->index()
+#1 D:\Client Project\Microsoft\20220313_aws\aws-sdk-php\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 D:\Client Project\Microsoft\20220313_aws\aws-sdk-php\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\Client Project\Microsoft\20220313_aws\aws-sdk-php\public\index.php(38): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-03-14 08:20:56 --> Class 'App\Library\Aws_sdk' not found
+#0 D:\Client Project\Microsoft\20220313_aws\aws-sdk-php\system\CodeIgniter.php(832): App\Controllers\Home->index()
+#1 D:\Client Project\Microsoft\20220313_aws\aws-sdk-php\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 D:\Client Project\Microsoft\20220313_aws\aws-sdk-php\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\Client Project\Microsoft\20220313_aws\aws-sdk-php\public\index.php(38): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-03-14 08:20:56 --> Class 'App\Library\Aws_sdk' not found
+#0 D:\Client Project\Microsoft\20220313_aws\aws-sdk-php\system\CodeIgniter.php(832): App\Controllers\Home->index()
+#1 D:\Client Project\Microsoft\20220313_aws\aws-sdk-php\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 D:\Client Project\Microsoft\20220313_aws\aws-sdk-php\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\Client Project\Microsoft\20220313_aws\aws-sdk-php\public\index.php(38): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-03-14 08:20:57 --> Class 'App\Library\Aws_sdk' not found
+#0 D:\Client Project\Microsoft\20220313_aws\aws-sdk-php\system\CodeIgniter.php(832): App\Controllers\Home->index()
+#1 D:\Client Project\Microsoft\20220313_aws\aws-sdk-php\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 D:\Client Project\Microsoft\20220313_aws\aws-sdk-php\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\Client Project\Microsoft\20220313_aws\aws-sdk-php\public\index.php(38): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-03-14 08:20:57 --> Class 'App\Library\Aws_sdk' not found
+#0 D:\Client Project\Microsoft\20220313_aws\aws-sdk-php\system\CodeIgniter.php(832): App\Controllers\Home->index()
+#1 D:\Client Project\Microsoft\20220313_aws\aws-sdk-php\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 D:\Client Project\Microsoft\20220313_aws\aws-sdk-php\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\Client Project\Microsoft\20220313_aws\aws-sdk-php\public\index.php(38): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-03-14 08:20:57 --> Class 'App\Library\Aws_sdk' not found
+#0 D:\Client Project\Microsoft\20220313_aws\aws-sdk-php\system\CodeIgniter.php(832): App\Controllers\Home->index()
+#1 D:\Client Project\Microsoft\20220313_aws\aws-sdk-php\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 D:\Client Project\Microsoft\20220313_aws\aws-sdk-php\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\Client Project\Microsoft\20220313_aws\aws-sdk-php\public\index.php(38): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-03-14 08:20:57 --> Class 'App\Library\Aws_sdk' not found
+#0 D:\Client Project\Microsoft\20220313_aws\aws-sdk-php\system\CodeIgniter.php(832): App\Controllers\Home->index()
+#1 D:\Client Project\Microsoft\20220313_aws\aws-sdk-php\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 D:\Client Project\Microsoft\20220313_aws\aws-sdk-php\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\Client Project\Microsoft\20220313_aws\aws-sdk-php\public\index.php(38): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-03-14 08:20:57 --> Class 'App\Library\Aws_sdk' not found
+#0 D:\Client Project\Microsoft\20220313_aws\aws-sdk-php\system\CodeIgniter.php(832): App\Controllers\Home->index()
+#1 D:\Client Project\Microsoft\20220313_aws\aws-sdk-php\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 D:\Client Project\Microsoft\20220313_aws\aws-sdk-php\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\Client Project\Microsoft\20220313_aws\aws-sdk-php\public\index.php(38): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-03-14 08:20:58 --> Class 'App\Library\Aws_sdk' not found
+#0 D:\Client Project\Microsoft\20220313_aws\aws-sdk-php\system\CodeIgniter.php(832): App\Controllers\Home->index()
+#1 D:\Client Project\Microsoft\20220313_aws\aws-sdk-php\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 D:\Client Project\Microsoft\20220313_aws\aws-sdk-php\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\Client Project\Microsoft\20220313_aws\aws-sdk-php\public\index.php(38): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-03-14 08:20:58 --> Class 'App\Library\Aws_sdk' not found
+#0 D:\Client Project\Microsoft\20220313_aws\aws-sdk-php\system\CodeIgniter.php(832): App\Controllers\Home->index()
+#1 D:\Client Project\Microsoft\20220313_aws\aws-sdk-php\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 D:\Client Project\Microsoft\20220313_aws\aws-sdk-php\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\Client Project\Microsoft\20220313_aws\aws-sdk-php\public\index.php(38): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-03-14 08:20:58 --> Class 'App\Library\Aws_sdk' not found
+#0 D:\Client Project\Microsoft\20220313_aws\aws-sdk-php\system\CodeIgniter.php(832): App\Controllers\Home->index()
+#1 D:\Client Project\Microsoft\20220313_aws\aws-sdk-php\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 D:\Client Project\Microsoft\20220313_aws\aws-sdk-php\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\Client Project\Microsoft\20220313_aws\aws-sdk-php\public\index.php(38): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-03-14 08:22:37 --> Class 'App\Library\Aws_sdk' not found
+#0 D:\Client Project\Microsoft\20220313_aws\aws-sdk-php\system\CodeIgniter.php(832): App\Controllers\Home->index()
+#1 D:\Client Project\Microsoft\20220313_aws\aws-sdk-php\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 D:\Client Project\Microsoft\20220313_aws\aws-sdk-php\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\Client Project\Microsoft\20220313_aws\aws-sdk-php\public\index.php(38): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-03-14 08:22:38 --> Class 'App\Library\Aws_sdk' not found
+#0 D:\Client Project\Microsoft\20220313_aws\aws-sdk-php\system\CodeIgniter.php(832): App\Controllers\Home->index()
+#1 D:\Client Project\Microsoft\20220313_aws\aws-sdk-php\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 D:\Client Project\Microsoft\20220313_aws\aws-sdk-php\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\Client Project\Microsoft\20220313_aws\aws-sdk-php\public\index.php(38): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-03-14 08:22:39 --> Class 'App\Library\Aws_sdk' not found
+#0 D:\Client Project\Microsoft\20220313_aws\aws-sdk-php\system\CodeIgniter.php(832): App\Controllers\Home->index()
+#1 D:\Client Project\Microsoft\20220313_aws\aws-sdk-php\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 D:\Client Project\Microsoft\20220313_aws\aws-sdk-php\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\Client Project\Microsoft\20220313_aws\aws-sdk-php\public\index.php(38): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-03-14 08:23:55 --> Class 'App\Library\Aws_sdk' not found
+#0 D:\Client Project\Microsoft\20220313_aws\aws-sdk-php\system\CodeIgniter.php(832): App\Controllers\Home->index()
+#1 D:\Client Project\Microsoft\20220313_aws\aws-sdk-php\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 D:\Client Project\Microsoft\20220313_aws\aws-sdk-php\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\Client Project\Microsoft\20220313_aws\aws-sdk-php\public\index.php(38): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-03-14 08:23:55 --> Class 'App\Library\Aws_sdk' not found
+#0 D:\Client Project\Microsoft\20220313_aws\aws-sdk-php\system\CodeIgniter.php(832): App\Controllers\Home->index()
+#1 D:\Client Project\Microsoft\20220313_aws\aws-sdk-php\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 D:\Client Project\Microsoft\20220313_aws\aws-sdk-php\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\Client Project\Microsoft\20220313_aws\aws-sdk-php\public\index.php(38): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-03-14 08:23:56 --> Class 'App\Library\Aws_sdk' not found
+#0 D:\Client Project\Microsoft\20220313_aws\aws-sdk-php\system\CodeIgniter.php(832): App\Controllers\Home->index()
+#1 D:\Client Project\Microsoft\20220313_aws\aws-sdk-php\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 D:\Client Project\Microsoft\20220313_aws\aws-sdk-php\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\Client Project\Microsoft\20220313_aws\aws-sdk-php\public\index.php(38): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-03-14 08:23:56 --> Class 'App\Library\Aws_sdk' not found
+#0 D:\Client Project\Microsoft\20220313_aws\aws-sdk-php\system\CodeIgniter.php(832): App\Controllers\Home->index()
+#1 D:\Client Project\Microsoft\20220313_aws\aws-sdk-php\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 D:\Client Project\Microsoft\20220313_aws\aws-sdk-php\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\Client Project\Microsoft\20220313_aws\aws-sdk-php\public\index.php(38): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-03-14 08:23:56 --> Class 'App\Library\Aws_sdk' not found
+#0 D:\Client Project\Microsoft\20220313_aws\aws-sdk-php\system\CodeIgniter.php(832): App\Controllers\Home->index()
+#1 D:\Client Project\Microsoft\20220313_aws\aws-sdk-php\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 D:\Client Project\Microsoft\20220313_aws\aws-sdk-php\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\Client Project\Microsoft\20220313_aws\aws-sdk-php\public\index.php(38): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-03-14 08:23:56 --> Class 'App\Library\Aws_sdk' not found
+#0 D:\Client Project\Microsoft\20220313_aws\aws-sdk-php\system\CodeIgniter.php(832): App\Controllers\Home->index()
+#1 D:\Client Project\Microsoft\20220313_aws\aws-sdk-php\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 D:\Client Project\Microsoft\20220313_aws\aws-sdk-php\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\Client Project\Microsoft\20220313_aws\aws-sdk-php\public\index.php(38): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-03-14 08:23:56 --> Class 'App\Library\Aws_sdk' not found
+#0 D:\Client Project\Microsoft\20220313_aws\aws-sdk-php\system\CodeIgniter.php(832): App\Controllers\Home->index()
+#1 D:\Client Project\Microsoft\20220313_aws\aws-sdk-php\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 D:\Client Project\Microsoft\20220313_aws\aws-sdk-php\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\Client Project\Microsoft\20220313_aws\aws-sdk-php\public\index.php(38): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-03-14 08:28:16 --> Call to undefined function App\Controllers\get_instance()
+#0 D:\Client Project\Microsoft\20220313_aws\aws-sdk-php\system\CodeIgniter.php(832): App\Controllers\Home->index()
+#1 D:\Client Project\Microsoft\20220313_aws\aws-sdk-php\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 D:\Client Project\Microsoft\20220313_aws\aws-sdk-php\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\Client Project\Microsoft\20220313_aws\aws-sdk-php\public\index.php(38): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-03-14 08:29:02 --> Call to undefined function App\Controllers\get_instance()
+#0 D:\Client Project\Microsoft\20220313_aws\aws-sdk-php\system\CodeIgniter.php(832): App\Controllers\Home->index()
+#1 D:\Client Project\Microsoft\20220313_aws\aws-sdk-php\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 D:\Client Project\Microsoft\20220313_aws\aws-sdk-php\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\Client Project\Microsoft\20220313_aws\aws-sdk-php\public\index.php(38): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-03-14 08:29:02 --> Call to undefined function App\Controllers\get_instance()
+#0 D:\Client Project\Microsoft\20220313_aws\aws-sdk-php\system\CodeIgniter.php(832): App\Controllers\Home->index()
+#1 D:\Client Project\Microsoft\20220313_aws\aws-sdk-php\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 D:\Client Project\Microsoft\20220313_aws\aws-sdk-php\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\Client Project\Microsoft\20220313_aws\aws-sdk-php\public\index.php(38): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-03-14 08:29:03 --> Call to undefined function App\Controllers\get_instance()
+#0 D:\Client Project\Microsoft\20220313_aws\aws-sdk-php\system\CodeIgniter.php(832): App\Controllers\Home->index()
+#1 D:\Client Project\Microsoft\20220313_aws\aws-sdk-php\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 D:\Client Project\Microsoft\20220313_aws\aws-sdk-php\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\Client Project\Microsoft\20220313_aws\aws-sdk-php\public\index.php(38): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-03-14 08:29:03 --> Call to undefined function App\Controllers\get_instance()
+#0 D:\Client Project\Microsoft\20220313_aws\aws-sdk-php\system\CodeIgniter.php(832): App\Controllers\Home->index()
+#1 D:\Client Project\Microsoft\20220313_aws\aws-sdk-php\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 D:\Client Project\Microsoft\20220313_aws\aws-sdk-php\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\Client Project\Microsoft\20220313_aws\aws-sdk-php\public\index.php(38): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-03-14 08:29:19 --> Call to undefined function Codeigniter\get_instance()
+#0 D:\Client Project\Microsoft\20220313_aws\aws-sdk-php\system\CodeIgniter.php(832): App\Controllers\Home->index()
+#1 D:\Client Project\Microsoft\20220313_aws\aws-sdk-php\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 D:\Client Project\Microsoft\20220313_aws\aws-sdk-php\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\Client Project\Microsoft\20220313_aws\aws-sdk-php\public\index.php(38): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-03-14 08:30:52 --> Call to undefined function App\Controllers\get_instance()
+#0 D:\Client Project\Microsoft\20220313_aws\aws-sdk-php\system\CodeIgniter.php(809): App\Controllers\Home->__construct()
+#1 D:\Client Project\Microsoft\20220313_aws\aws-sdk-php\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->createController()
+#2 D:\Client Project\Microsoft\20220313_aws\aws-sdk-php\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\Client Project\Microsoft\20220313_aws\aws-sdk-php\public\index.php(38): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-03-14 08:30:53 --> Call to undefined function App\Controllers\get_instance()
+#0 D:\Client Project\Microsoft\20220313_aws\aws-sdk-php\system\CodeIgniter.php(809): App\Controllers\Home->__construct()
+#1 D:\Client Project\Microsoft\20220313_aws\aws-sdk-php\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->createController()
+#2 D:\Client Project\Microsoft\20220313_aws\aws-sdk-php\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\Client Project\Microsoft\20220313_aws\aws-sdk-php\public\index.php(38): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-03-14 08:30:53 --> Call to undefined function App\Controllers\get_instance()
+#0 D:\Client Project\Microsoft\20220313_aws\aws-sdk-php\system\CodeIgniter.php(809): App\Controllers\Home->__construct()
+#1 D:\Client Project\Microsoft\20220313_aws\aws-sdk-php\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->createController()
+#2 D:\Client Project\Microsoft\20220313_aws\aws-sdk-php\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\Client Project\Microsoft\20220313_aws\aws-sdk-php\public\index.php(38): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-03-14 08:30:54 --> Call to undefined function App\Controllers\get_instance()
+#0 D:\Client Project\Microsoft\20220313_aws\aws-sdk-php\system\CodeIgniter.php(809): App\Controllers\Home->__construct()
+#1 D:\Client Project\Microsoft\20220313_aws\aws-sdk-php\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->createController()
+#2 D:\Client Project\Microsoft\20220313_aws\aws-sdk-php\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\Client Project\Microsoft\20220313_aws\aws-sdk-php\public\index.php(38): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-03-14 08:30:54 --> Call to undefined function App\Controllers\get_instance()
+#0 D:\Client Project\Microsoft\20220313_aws\aws-sdk-php\system\CodeIgniter.php(809): App\Controllers\Home->__construct()
+#1 D:\Client Project\Microsoft\20220313_aws\aws-sdk-php\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->createController()
+#2 D:\Client Project\Microsoft\20220313_aws\aws-sdk-php\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\Client Project\Microsoft\20220313_aws\aws-sdk-php\public\index.php(38): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-03-14 08:30:54 --> Call to undefined function App\Controllers\get_instance()
+#0 D:\Client Project\Microsoft\20220313_aws\aws-sdk-php\system\CodeIgniter.php(809): App\Controllers\Home->__construct()
+#1 D:\Client Project\Microsoft\20220313_aws\aws-sdk-php\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->createController()
+#2 D:\Client Project\Microsoft\20220313_aws\aws-sdk-php\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\Client Project\Microsoft\20220313_aws\aws-sdk-php\public\index.php(38): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-03-14 08:30:54 --> Call to undefined function App\Controllers\get_instance()
+#0 D:\Client Project\Microsoft\20220313_aws\aws-sdk-php\system\CodeIgniter.php(809): App\Controllers\Home->__construct()
+#1 D:\Client Project\Microsoft\20220313_aws\aws-sdk-php\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->createController()
+#2 D:\Client Project\Microsoft\20220313_aws\aws-sdk-php\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\Client Project\Microsoft\20220313_aws\aws-sdk-php\public\index.php(38): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-03-14 08:33:31 --> Class 'BaseController' not found
+#0 D:\Client Project\Microsoft\20220313_aws\aws-sdk-php\system\Autoloader\Autoloader.php(264): include_once()
+#1 D:\Client Project\Microsoft\20220313_aws\aws-sdk-php\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('D:\\Client Proje...')
+#2 D:\Client Project\Microsoft\20220313_aws\aws-sdk-php\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#4 [internal function]: spl_autoload_call('App\\Controllers...')
+#5 D:\Client Project\Microsoft\20220313_aws\aws-sdk-php\system\CodeIgniter.php(797): class_exists('\\App\\Controller...', true)
+#6 D:\Client Project\Microsoft\20220313_aws\aws-sdk-php\system\CodeIgniter.php(406): CodeIgniter\CodeIgniter->startController()
+#7 D:\Client Project\Microsoft\20220313_aws\aws-sdk-php\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 D:\Client Project\Microsoft\20220313_aws\aws-sdk-php\public\index.php(38): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-03-14 08:33:31 --> Class 'BaseController' not found
+#0 D:\Client Project\Microsoft\20220313_aws\aws-sdk-php\system\Autoloader\Autoloader.php(264): include_once()
+#1 D:\Client Project\Microsoft\20220313_aws\aws-sdk-php\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('D:\\Client Proje...')
+#2 D:\Client Project\Microsoft\20220313_aws\aws-sdk-php\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#4 [internal function]: spl_autoload_call('App\\Controllers...')
+#5 D:\Client Project\Microsoft\20220313_aws\aws-sdk-php\system\CodeIgniter.php(797): class_exists('\\App\\Controller...', true)
+#6 D:\Client Project\Microsoft\20220313_aws\aws-sdk-php\system\CodeIgniter.php(406): CodeIgniter\CodeIgniter->startController()
+#7 D:\Client Project\Microsoft\20220313_aws\aws-sdk-php\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 D:\Client Project\Microsoft\20220313_aws\aws-sdk-php\public\index.php(38): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-03-14 08:33:32 --> Class 'BaseController' not found
+#0 D:\Client Project\Microsoft\20220313_aws\aws-sdk-php\system\Autoloader\Autoloader.php(264): include_once()
+#1 D:\Client Project\Microsoft\20220313_aws\aws-sdk-php\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('D:\\Client Proje...')
+#2 D:\Client Project\Microsoft\20220313_aws\aws-sdk-php\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#4 [internal function]: spl_autoload_call('App\\Controllers...')
+#5 D:\Client Project\Microsoft\20220313_aws\aws-sdk-php\system\CodeIgniter.php(797): class_exists('\\App\\Controller...', true)
+#6 D:\Client Project\Microsoft\20220313_aws\aws-sdk-php\system\CodeIgniter.php(406): CodeIgniter\CodeIgniter->startController()
+#7 D:\Client Project\Microsoft\20220313_aws\aws-sdk-php\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 D:\Client Project\Microsoft\20220313_aws\aws-sdk-php\public\index.php(38): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-03-14 08:33:32 --> Class 'BaseController' not found
+#0 D:\Client Project\Microsoft\20220313_aws\aws-sdk-php\system\Autoloader\Autoloader.php(264): include_once()
+#1 D:\Client Project\Microsoft\20220313_aws\aws-sdk-php\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('D:\\Client Proje...')
+#2 D:\Client Project\Microsoft\20220313_aws\aws-sdk-php\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#4 [internal function]: spl_autoload_call('App\\Controllers...')
+#5 D:\Client Project\Microsoft\20220313_aws\aws-sdk-php\system\CodeIgniter.php(797): class_exists('\\App\\Controller...', true)
+#6 D:\Client Project\Microsoft\20220313_aws\aws-sdk-php\system\CodeIgniter.php(406): CodeIgniter\CodeIgniter->startController()
+#7 D:\Client Project\Microsoft\20220313_aws\aws-sdk-php\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 D:\Client Project\Microsoft\20220313_aws\aws-sdk-php\public\index.php(38): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-03-14 08:33:32 --> Class 'BaseController' not found
+#0 D:\Client Project\Microsoft\20220313_aws\aws-sdk-php\system\Autoloader\Autoloader.php(264): include_once()
+#1 D:\Client Project\Microsoft\20220313_aws\aws-sdk-php\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('D:\\Client Proje...')
+#2 D:\Client Project\Microsoft\20220313_aws\aws-sdk-php\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#4 [internal function]: spl_autoload_call('App\\Controllers...')
+#5 D:\Client Project\Microsoft\20220313_aws\aws-sdk-php\system\CodeIgniter.php(797): class_exists('\\App\\Controller...', true)
+#6 D:\Client Project\Microsoft\20220313_aws\aws-sdk-php\system\CodeIgniter.php(406): CodeIgniter\CodeIgniter->startController()
+#7 D:\Client Project\Microsoft\20220313_aws\aws-sdk-php\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 D:\Client Project\Microsoft\20220313_aws\aws-sdk-php\public\index.php(38): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-03-14 08:33:32 --> Class 'BaseController' not found
+#0 D:\Client Project\Microsoft\20220313_aws\aws-sdk-php\system\Autoloader\Autoloader.php(264): include_once()
+#1 D:\Client Project\Microsoft\20220313_aws\aws-sdk-php\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('D:\\Client Proje...')
+#2 D:\Client Project\Microsoft\20220313_aws\aws-sdk-php\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#4 [internal function]: spl_autoload_call('App\\Controllers...')
+#5 D:\Client Project\Microsoft\20220313_aws\aws-sdk-php\system\CodeIgniter.php(797): class_exists('\\App\\Controller...', true)
+#6 D:\Client Project\Microsoft\20220313_aws\aws-sdk-php\system\CodeIgniter.php(406): CodeIgniter\CodeIgniter->startController()
+#7 D:\Client Project\Microsoft\20220313_aws\aws-sdk-php\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 D:\Client Project\Microsoft\20220313_aws\aws-sdk-php\public\index.php(38): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-03-14 08:43:50 --> Call to undefined function App\Libraries\get_instance()
+#0 D:\Client Project\Microsoft\20220313_aws\aws-sdk-php\app\Controllers\Home.php(12): App\Libraries\Aws_sdk->__construct()
+#1 D:\Client Project\Microsoft\20220313_aws\aws-sdk-php\system\CodeIgniter.php(832): App\Controllers\Home->index()
+#2 D:\Client Project\Microsoft\20220313_aws\aws-sdk-php\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 D:\Client Project\Microsoft\20220313_aws\aws-sdk-php\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\Client Project\Microsoft\20220313_aws\aws-sdk-php\public\index.php(38): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-03-14 08:47:07 --> Class 'App\Config\Aws_sdk_config' not found
+#0 D:\Client Project\Microsoft\20220313_aws\aws-sdk-php\app\Controllers\Home.php(12): App\Libraries\Aws_sdk->__construct()
+#1 D:\Client Project\Microsoft\20220313_aws\aws-sdk-php\system\CodeIgniter.php(832): App\Controllers\Home->index()
+#2 D:\Client Project\Microsoft\20220313_aws\aws-sdk-php\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 D:\Client Project\Microsoft\20220313_aws\aws-sdk-php\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\Client Project\Microsoft\20220313_aws\aws-sdk-php\public\index.php(38): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-03-14 08:49:12 --> require(../config/aws_sdk.php): failed to open stream: No such file or directory
+#0 D:\Client Project\Microsoft\20220313_aws\aws-sdk-php\app\Libraries\Aws_sdk.php(5): CodeIgniter\Debug\Exceptions->errorHandler(2, 'require(../conf...', 'D:\\Client Proje...', 5, Array)
+#1 D:\Client Project\Microsoft\20220313_aws\aws-sdk-php\app\Libraries\Aws_sdk.php(5): require()
+#2 D:\Client Project\Microsoft\20220313_aws\aws-sdk-php\system\Autoloader\Autoloader.php(264): include_once('D:\\Client Proje...')
+#3 D:\Client Project\Microsoft\20220313_aws\aws-sdk-php\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('D:\\Client Proje...')
+#4 D:\Client Project\Microsoft\20220313_aws\aws-sdk-php\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Libraries\\A...')
+#5 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Libraries\\A...')
+#6 D:\Client Project\Microsoft\20220313_aws\aws-sdk-php\app\Controllers\Home.php(12): spl_autoload_call('App\\Libraries\\A...')
+#7 D:\Client Project\Microsoft\20220313_aws\aws-sdk-php\system\CodeIgniter.php(832): App\Controllers\Home->index()
+#8 D:\Client Project\Microsoft\20220313_aws\aws-sdk-php\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#9 D:\Client Project\Microsoft\20220313_aws\aws-sdk-php\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 D:\Client Project\Microsoft\20220313_aws\aws-sdk-php\public\index.php(38): CodeIgniter\CodeIgniter->run()
+#11 {main}
+CRITICAL - 2022-03-14 08:49:39 --> require(./config/aws_sdk.php): failed to open stream: No such file or directory
+#0 D:\Client Project\Microsoft\20220313_aws\aws-sdk-php\app\Libraries\Aws_sdk.php(5): CodeIgniter\Debug\Exceptions->errorHandler(2, 'require(./confi...', 'D:\\Client Proje...', 5, Array)
+#1 D:\Client Project\Microsoft\20220313_aws\aws-sdk-php\app\Libraries\Aws_sdk.php(5): require()
+#2 D:\Client Project\Microsoft\20220313_aws\aws-sdk-php\system\Autoloader\Autoloader.php(264): include_once('D:\\Client Proje...')
+#3 D:\Client Project\Microsoft\20220313_aws\aws-sdk-php\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('D:\\Client Proje...')
+#4 D:\Client Project\Microsoft\20220313_aws\aws-sdk-php\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Libraries\\A...')
+#5 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Libraries\\A...')
+#6 D:\Client Project\Microsoft\20220313_aws\aws-sdk-php\app\Controllers\Home.php(12): spl_autoload_call('App\\Libraries\\A...')
+#7 D:\Client Project\Microsoft\20220313_aws\aws-sdk-php\system\CodeIgniter.php(832): App\Controllers\Home->index()
+#8 D:\Client Project\Microsoft\20220313_aws\aws-sdk-php\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#9 D:\Client Project\Microsoft\20220313_aws\aws-sdk-php\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 D:\Client Project\Microsoft\20220313_aws\aws-sdk-php\public\index.php(38): CodeIgniter\CodeIgniter->run()
+#11 {main}
+CRITICAL - 2022-03-14 08:49:39 --> require(./config/aws_sdk.php): failed to open stream: No such file or directory
+#0 D:\Client Project\Microsoft\20220313_aws\aws-sdk-php\app\Libraries\Aws_sdk.php(5): CodeIgniter\Debug\Exceptions->errorHandler(2, 'require(./confi...', 'D:\\Client Proje...', 5, Array)
+#1 D:\Client Project\Microsoft\20220313_aws\aws-sdk-php\app\Libraries\Aws_sdk.php(5): require()
+#2 D:\Client Project\Microsoft\20220313_aws\aws-sdk-php\system\Autoloader\Autoloader.php(264): include_once('D:\\Client Proje...')
+#3 D:\Client Project\Microsoft\20220313_aws\aws-sdk-php\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('D:\\Client Proje...')
+#4 D:\Client Project\Microsoft\20220313_aws\aws-sdk-php\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Libraries\\A...')
+#5 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Libraries\\A...')
+#6 D:\Client Project\Microsoft\20220313_aws\aws-sdk-php\app\Controllers\Home.php(12): spl_autoload_call('App\\Libraries\\A...')
+#7 D:\Client Project\Microsoft\20220313_aws\aws-sdk-php\system\CodeIgniter.php(832): App\Controllers\Home->index()
+#8 D:\Client Project\Microsoft\20220313_aws\aws-sdk-php\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#9 D:\Client Project\Microsoft\20220313_aws\aws-sdk-php\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 D:\Client Project\Microsoft\20220313_aws\aws-sdk-php\public\index.php(38): CodeIgniter\CodeIgniter->run()
+#11 {main}
+CRITICAL - 2022-03-14 08:49:40 --> require(./config/aws_sdk.php): failed to open stream: No such file or directory
+#0 D:\Client Project\Microsoft\20220313_aws\aws-sdk-php\app\Libraries\Aws_sdk.php(5): CodeIgniter\Debug\Exceptions->errorHandler(2, 'require(./confi...', 'D:\\Client Proje...', 5, Array)
+#1 D:\Client Project\Microsoft\20220313_aws\aws-sdk-php\app\Libraries\Aws_sdk.php(5): require()
+#2 D:\Client Project\Microsoft\20220313_aws\aws-sdk-php\system\Autoloader\Autoloader.php(264): include_once('D:\\Client Proje...')
+#3 D:\Client Project\Microsoft\20220313_aws\aws-sdk-php\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('D:\\Client Proje...')
+#4 D:\Client Project\Microsoft\20220313_aws\aws-sdk-php\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Libraries\\A...')
+#5 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Libraries\\A...')
+#6 D:\Client Project\Microsoft\20220313_aws\aws-sdk-php\app\Controllers\Home.php(12): spl_autoload_call('App\\Libraries\\A...')
+#7 D:\Client Project\Microsoft\20220313_aws\aws-sdk-php\system\CodeIgniter.php(832): App\Controllers\Home->index()
+#8 D:\Client Project\Microsoft\20220313_aws\aws-sdk-php\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#9 D:\Client Project\Microsoft\20220313_aws\aws-sdk-php\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 D:\Client Project\Microsoft\20220313_aws\aws-sdk-php\public\index.php(38): CodeIgniter\CodeIgniter->run()
+#11 {main}
+CRITICAL - 2022-03-14 08:49:40 --> require(./config/aws_sdk.php): failed to open stream: No such file or directory
+#0 D:\Client Project\Microsoft\20220313_aws\aws-sdk-php\app\Libraries\Aws_sdk.php(5): CodeIgniter\Debug\Exceptions->errorHandler(2, 'require(./confi...', 'D:\\Client Proje...', 5, Array)
+#1 D:\Client Project\Microsoft\20220313_aws\aws-sdk-php\app\Libraries\Aws_sdk.php(5): require()
+#2 D:\Client Project\Microsoft\20220313_aws\aws-sdk-php\system\Autoloader\Autoloader.php(264): include_once('D:\\Client Proje...')
+#3 D:\Client Project\Microsoft\20220313_aws\aws-sdk-php\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('D:\\Client Proje...')
+#4 D:\Client Project\Microsoft\20220313_aws\aws-sdk-php\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Libraries\\A...')
+#5 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Libraries\\A...')
+#6 D:\Client Project\Microsoft\20220313_aws\aws-sdk-php\app\Controllers\Home.php(12): spl_autoload_call('App\\Libraries\\A...')
+#7 D:\Client Project\Microsoft\20220313_aws\aws-sdk-php\system\CodeIgniter.php(832): App\Controllers\Home->index()
+#8 D:\Client Project\Microsoft\20220313_aws\aws-sdk-php\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#9 D:\Client Project\Microsoft\20220313_aws\aws-sdk-php\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 D:\Client Project\Microsoft\20220313_aws\aws-sdk-php\public\index.php(38): CodeIgniter\CodeIgniter->run()
+#11 {main}
+CRITICAL - 2022-03-14 08:49:40 --> require(./config/aws_sdk.php): failed to open stream: No such file or directory
+#0 D:\Client Project\Microsoft\20220313_aws\aws-sdk-php\app\Libraries\Aws_sdk.php(5): CodeIgniter\Debug\Exceptions->errorHandler(2, 'require(./confi...', 'D:\\Client Proje...', 5, Array)
+#1 D:\Client Project\Microsoft\20220313_aws\aws-sdk-php\app\Libraries\Aws_sdk.php(5): require()
+#2 D:\Client Project\Microsoft\20220313_aws\aws-sdk-php\system\Autoloader\Autoloader.php(264): include_once('D:\\Client Proje...')
+#3 D:\Client Project\Microsoft\20220313_aws\aws-sdk-php\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('D:\\Client Proje...')
+#4 D:\Client Project\Microsoft\20220313_aws\aws-sdk-php\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Libraries\\A...')
+#5 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Libraries\\A...')
+#6 D:\Client Project\Microsoft\20220313_aws\aws-sdk-php\app\Controllers\Home.php(12): spl_autoload_call('App\\Libraries\\A...')
+#7 D:\Client Project\Microsoft\20220313_aws\aws-sdk-php\system\CodeIgniter.php(832): App\Controllers\Home->index()
+#8 D:\Client Project\Microsoft\20220313_aws\aws-sdk-php\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#9 D:\Client Project\Microsoft\20220313_aws\aws-sdk-php\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 D:\Client Project\Microsoft\20220313_aws\aws-sdk-php\public\index.php(38): CodeIgniter\CodeIgniter->run()
+#11 {main}
+CRITICAL - 2022-03-14 08:49:40 --> require(./config/aws_sdk.php): failed to open stream: No such file or directory
+#0 D:\Client Project\Microsoft\20220313_aws\aws-sdk-php\app\Libraries\Aws_sdk.php(5): CodeIgniter\Debug\Exceptions->errorHandler(2, 'require(./confi...', 'D:\\Client Proje...', 5, Array)
+#1 D:\Client Project\Microsoft\20220313_aws\aws-sdk-php\app\Libraries\Aws_sdk.php(5): require()
+#2 D:\Client Project\Microsoft\20220313_aws\aws-sdk-php\system\Autoloader\Autoloader.php(264): include_once('D:\\Client Proje...')
+#3 D:\Client Project\Microsoft\20220313_aws\aws-sdk-php\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('D:\\Client Proje...')
+#4 D:\Client Project\Microsoft\20220313_aws\aws-sdk-php\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Libraries\\A...')
+#5 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Libraries\\A...')
+#6 D:\Client Project\Microsoft\20220313_aws\aws-sdk-php\app\Controllers\Home.php(12): spl_autoload_call('App\\Libraries\\A...')
+#7 D:\Client Project\Microsoft\20220313_aws\aws-sdk-php\system\CodeIgniter.php(832): App\Controllers\Home->index()
+#8 D:\Client Project\Microsoft\20220313_aws\aws-sdk-php\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#9 D:\Client Project\Microsoft\20220313_aws\aws-sdk-php\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 D:\Client Project\Microsoft\20220313_aws\aws-sdk-php\public\index.php(38): CodeIgniter\CodeIgniter->run()
+#11 {main}
+CRITICAL - 2022-03-14 08:50:23 --> Undefined variable: config
+#0 D:\Client Project\Microsoft\20220313_aws\aws-sdk-php\app\Libraries\Aws_sdk.php(14): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'D:\\Client Proje...', 14, Array)
+#1 D:\Client Project\Microsoft\20220313_aws\aws-sdk-php\app\Controllers\Home.php(12): App\Libraries\Aws_sdk->__construct()
+#2 D:\Client Project\Microsoft\20220313_aws\aws-sdk-php\system\CodeIgniter.php(832): App\Controllers\Home->index()
+#3 D:\Client Project\Microsoft\20220313_aws\aws-sdk-php\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#4 D:\Client Project\Microsoft\20220313_aws\aws-sdk-php\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 D:\Client Project\Microsoft\20220313_aws\aws-sdk-php\public\index.php(38): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-03-14 08:55:52 --> Cannot use object of type Config\Aws as array
+#0 D:\Client Project\Microsoft\20220313_aws\aws-sdk-php\app\Controllers\Home.php(12): App\Libraries\Aws_sdk->__construct()
+#1 D:\Client Project\Microsoft\20220313_aws\aws-sdk-php\system\CodeIgniter.php(832): App\Controllers\Home->index()
+#2 D:\Client Project\Microsoft\20220313_aws\aws-sdk-php\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 D:\Client Project\Microsoft\20220313_aws\aws-sdk-php\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\Client Project\Microsoft\20220313_aws\aws-sdk-php\public\index.php(38): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-03-14 08:55:57 --> Cannot use object of type Config\Aws as array
+#0 D:\Client Project\Microsoft\20220313_aws\aws-sdk-php\app\Controllers\Home.php(12): App\Libraries\Aws_sdk->__construct()
+#1 D:\Client Project\Microsoft\20220313_aws\aws-sdk-php\system\CodeIgniter.php(832): App\Controllers\Home->index()
+#2 D:\Client Project\Microsoft\20220313_aws\aws-sdk-php\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 D:\Client Project\Microsoft\20220313_aws\aws-sdk-php\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\Client Project\Microsoft\20220313_aws\aws-sdk-php\public\index.php(38): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-03-14 08:56:42 --> You must specify a non-null value for the Body or SourceFile parameters.
+#0 D:\Client Project\Microsoft\20220313_aws\aws-sdk-php\vendor\symfony\event-dispatcher\EventDispatcher.php(184): Aws\Common\Client\UploadBodyListener->onCommandBeforePrepare(Object(Guzzle\Common\Event), 'command.before_...', Object(Symfony\Component\EventDispatcher\EventDispatcher))
+#1 D:\Client Project\Microsoft\20220313_aws\aws-sdk-php\vendor\symfony\event-dispatcher\EventDispatcher.php(46): Symfony\Component\EventDispatcher\EventDispatcher->doDispatch(Array, 'command.before_...', Object(Guzzle\Common\Event))
+#2 D:\Client Project\Microsoft\20220313_aws\aws-sdk-php\vendor\guzzle\guzzle\src\Guzzle\Common\AbstractHasDispatcher.php(40): Symfony\Component\EventDispatcher\EventDispatcher->dispatch('command.before_...', Object(Guzzle\Common\Event))
+#3 D:\Client Project\Microsoft\20220313_aws\aws-sdk-php\vendor\guzzle\guzzle\src\Guzzle\Service\Command\AbstractCommand.php(233): Guzzle\Common\AbstractHasDispatcher->dispatch('command.before_...', Array)
+#4 D:\Client Project\Microsoft\20220313_aws\aws-sdk-php\vendor\guzzle\guzzle\src\Guzzle\Service\Client.php(205): Guzzle\Service\Command\AbstractCommand->prepare()
+#5 D:\Client Project\Microsoft\20220313_aws\aws-sdk-php\vendor\guzzle\guzzle\src\Guzzle\Service\Client.php(136): Guzzle\Service\Client->prepareCommand(Object(Aws\S3\Command\S3Command))
+#6 D:\Client Project\Microsoft\20220313_aws\aws-sdk-php\vendor\guzzle\guzzle\src\Guzzle\Service\Command\AbstractCommand.php(153): Guzzle\Service\Client->execute(Object(Aws\S3\Command\S3Command))
+#7 D:\Client Project\Microsoft\20220313_aws\aws-sdk-php\vendor\guzzle\guzzle\src\Guzzle\Service\Command\AbstractCommand.php(189): Guzzle\Service\Command\AbstractCommand->execute()
+#8 D:\Client Project\Microsoft\20220313_aws\aws-sdk-php\vendor\guzzle\guzzle\src\Guzzle\Service\Client.php(76): Guzzle\Service\Command\AbstractCommand->getResult()
+#9 D:\Client Project\Microsoft\20220313_aws\aws-sdk-php\vendor\aws\aws-sdk-php\src\Aws\Common\Client\AbstractClient.php(104): Guzzle\Service\Client->__call('PutObject', Array)
+#10 [internal function]: Aws\Common\Client\AbstractClient->__call('putObject', Array)
+#11 D:\Client Project\Microsoft\20220313_aws\aws-sdk-php\app\Libraries\Aws_sdk.php(22): call_user_func_array(Array, Array)
+#12 D:\Client Project\Microsoft\20220313_aws\aws-sdk-php\app\Libraries\Aws_sdk.php(38): App\Libraries\Aws_sdk->__call('putObject', Array)
+#13 D:\Client Project\Microsoft\20220313_aws\aws-sdk-php\app\Controllers\Home.php(16): App\Libraries\Aws_sdk->saveObject(Array)
+#14 D:\Client Project\Microsoft\20220313_aws\aws-sdk-php\system\CodeIgniter.php(832): App\Controllers\Home->index()
+#15 D:\Client Project\Microsoft\20220313_aws\aws-sdk-php\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#16 D:\Client Project\Microsoft\20220313_aws\aws-sdk-php\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#17 D:\Client Project\Microsoft\20220313_aws\aws-sdk-php\public\index.php(38): CodeIgniter\CodeIgniter->run()
+#18 {main}
