@@ -16,7 +16,7 @@ class Home extends BaseController
                 'Bucket'      => 'mybucket',
                 'Key'         => 'key',
                 'ACL'		  => 'public-read',
-                'SourceFile'  => 'source',
+                'SourceFile'  => WRITEPATH.'uploads/1.jpg',
                 'ContentType' => 'image/jpeg'
             ))->toArray();
         } catch (Exception $e){

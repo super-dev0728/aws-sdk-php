@@ -1,1 +1,2 @@
 app/Config/Aws.php
+writable/logs/*.*
